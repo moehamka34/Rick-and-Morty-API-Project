@@ -1,0 +1,21 @@
+body {
+    background-color: yellowgreen;
+}
+
+
+Header {
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 40px;
+    color: rgb(127, 255, 242);
+    
+}
+h1 {
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+    font-family: 'Indie Flower',cursive;
+    color: rgb(255, 255, 127)
+}
+
+
