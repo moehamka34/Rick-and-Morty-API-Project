@@ -2,12 +2,15 @@
 Simple web application that displays the characters in the Rick and Mory world at random using the Rick and Morty API.
 
 <h2> Technologies Used </h2> 
-* HTML5
-* CSS3
-* JavaScript
-* jQuery
-* Ajax
-* Rick and Morty API
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>Ajax</li>
+    <li>jQuery</li>
+    <li>Rick and Morty API</li>
+
+</ul>
 
 <h3> Screenshots </h3>
 <img src="https://i.imgur.com/NwhGQLs.png">
