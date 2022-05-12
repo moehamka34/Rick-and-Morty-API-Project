@@ -1,5 +1,8 @@
 body {
-    background-color: yellowgreen;
+    background-image: url(https://i.imgur.com/6f509Wg.jpg);
+    flex-wrap: wrap;
+    
+    
 }
 
 *{
@@ -20,6 +23,17 @@ h1 {
 button {
     color: green;
     font-family: 'Indie Flower',cursive;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    height: 25px;
+    width: 100px;
+    margin-bottom: 50px;
+    
+
+}
+.mainContent {
+    display: flex;
     
 
 }
