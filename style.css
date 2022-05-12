@@ -1,6 +1,10 @@
 body {
-    background-image: url(https://i.imgur.com/6f509Wg.jpg);
-    flex-wrap: wrap;
+    background-image: url(https://i.imgur.com/BAcflOZ.png); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;;
+    
     
     
 }
@@ -18,12 +22,13 @@ h1 {
     margin-bottom: 30px;
     font-size: 50px;
     font-family: 'Indie Flower',cursive;
-    color: rgb(255, 255, 127);
+    color: rgb(153, 255, 127);
 }
 button {
     color: green;
     font-family: 'Indie Flower',cursive;
     text-align: center;
+    font-size: 15px;
     margin: auto;
     display: flex;
     height: 25px;
@@ -32,11 +37,13 @@ button {
     
 
 }
-.mainContent {
+img {
     display: flex;
-    
+    margin: auto;
+    border-radius: 50px;
 
 }
+
 
 
 
