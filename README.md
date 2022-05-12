@@ -22,5 +22,5 @@ Simple web application that displays the characters in the Rick and Mory world a
 
 <h3> Future Enhancements </h3>
 <ul>
-    <li> The ability to present the names and descriptions of each charcter. </li>
+    <li> The ability to present the names and descriptions of each character. </li>
 </ul>
